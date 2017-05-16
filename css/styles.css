@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#sullivan-nolan-cover {
+    background-image: url("http://i.imgur.com/r3p4VdE.jpg");
+}
+
+#sullivan-nolan-card {
+    background-image: url("http://i.imgur.com/hIRzEix.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
